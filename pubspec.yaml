@@ -1,8 +1,7 @@
 name: auto_size_text_max
-description: Flutter widget that automatically resizes text to fit perfectly within its bounds.
-version: 3.0.0
-author: Simon Leier <simonleier@gmail.com>
-homepage: https://github.com/leisim/auto_size_text
+description: Flutter 升级 3.35.7 之后，对 auto_size_text 插件的升级（After Flutter upgrade 3.35.7, the upgrade of auto_size_text plugins.）。
+version: 4.0.0
+homepage: https://github.com/HanQiGod/animated_text_kit_plus
 
 environment:
   sdk: '>=2.12.0-0 <3.0.0'
